@@ -1,0 +1,276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Download with password\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-22 07:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: celtis-simple-download"
+
+#: celtisdl-setting.php:666
+msgid "( Set `read` for all logged in users )"
+msgstr ""
+
+#: celtisdl-logview.php:244
+msgid "< Prev"
+msgstr ""
+
+#: celtisdl-setting.php:538
+msgid "[Uploaded to another post]"
+msgstr ""
+
+#: celtisdl-setting.php:655
+msgid "Active"
+msgstr ""
+
+#: celtisdl-setting.php:584
+msgid "Add New"
+msgstr ""
+
+#: celtisdl-setting.php:29
+msgid "All Downloads"
+msgstr ""
+
+#: js/celtisdl-admin.js:33
+msgid "Cancel"
+msgstr ""
+
+#: celtisdl-setting.php:666
+msgid "capabilities"
+msgstr ""
+
+#: celtisdl-setting.php:646
+msgid "Click `Select File` button to upload/select the file to register"
+msgstr ""
+
+#: celtisdl-setting.php:654
+msgid "Deactive"
+msgstr ""
+
+#: celtisdl-setting.php:574
+msgid "Delete"
+msgstr ""
+
+#: celtisdl-download.php:19 celtisdl-utils.php:85
+msgid "Download"
+msgstr ""
+
+#: celtisdl-setting.php:651
+msgid "Download Activate"
+msgstr ""
+
+#: celtisdl-setting.php:588
+msgid "Download File"
+msgstr ""
+
+#: celtisdl-setting.php:694
+msgid "Download links endpoint"
+msgstr ""
+
+#: celtisdl-logview.php:257
+msgid "Download log"
+msgstr ""
+
+#: celtisdl-setting.php:28
+msgid "Downloads"
+msgstr ""
+
+#: celtisdl-setting.php:573
+msgid "Edit"
+msgstr ""
+
+#: celtisdl-logview.php:202
+msgid "End: "
+msgstr ""
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr ""
+
+#: celtisdl-logview.php:259
+msgid "Export Log (sqlite)"
+msgstr ""
+
+#: celtisdl-setting.php:689
+msgid "Extended option"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://celtislab.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://celtislab.net/en/wp-plugin-celtis-simple-download/"
+msgstr ""
+
+#: celtisdl-logview.php:223 celtisdl-setting.php:35
+msgid "Log"
+msgstr ""
+
+#: celtisdl-logview.php:195
+msgid "Log Filter"
+msgstr ""
+
+#: celtisdl-setting.php:499
+msgid "Name"
+msgstr ""
+
+#: celtisdl-setting.php:607
+msgid "Name (*)"
+msgstr ""
+
+#: celtisdl-setting.php:610
+msgid ""
+"Name will be used as a unique slug in the download URL. (valid characters "
+"are half-width alphanumeric characters, hyphens, and underscores)"
+msgstr ""
+
+#: celtisdl-logview.php:246
+msgid "Next >"
+msgstr ""
+
+#: celtisdl-setting.php:666
+msgid "No password is required for logged in user with "
+msgstr ""
+
+#: celtisdl-setting.php:697
+msgid "Note: Endpoint slug changes will update all download link URLs"
+msgstr ""
+
+#: celtisdl-setting.php:656
+msgid "Password (*) "
+msgstr ""
+
+#: celtisdl-setting.php:501
+msgid "Password / Skip"
+msgstr ""
+
+#: celtisdl-setting.php:701
+msgid "Password skip by refere"
+msgstr ""
+
+#: celtisdl-setting.php:663
+msgid "Password skip by user"
+msgstr ""
+
+#: celtisdl-download.php:25
+msgid "Please enter password to download:"
+msgstr ""
+
+#: celtisdl-logview.php:206
+msgid "Popular download"
+msgstr ""
+
+#: celtisdl-setting.php:709
+msgid "Prevent downloads from domain"
+msgstr ""
+
+#: celtisdl-setting.php:711
+msgid ""
+"Referrer domain verification - Prevent downloads from registered url domains."
+" (register url domain separated by line breaks)"
+msgstr ""
+
+#: celtisdl-setting.php:703
+msgid ""
+"Referrer verification - No password is required to download from a specific "
+"page of this site. (register URLs separated by line breaks)"
+msgstr ""
+
+#: celtisdl-setting.php:620
+msgid "Register file (*)"
+msgstr ""
+
+#: celtisdl-setting.php:718
+msgid "Remove upload file types filtering for site administrators"
+msgstr ""
+
+#: celtisdl-logview.php:260
+msgid "Reset Log"
+msgstr ""
+
+#: celtisdl-setting.php:723 js/celtisdl-admin.js:23
+msgid "Save"
+msgstr ""
+
+#: js/celtisdl-admin.js:291
+msgid "Select Download File"
+msgstr ""
+
+#: celtisdl-setting.php:647
+msgid "Select File"
+msgstr ""
+
+#: celtisdl-setting.php:502
+msgid "ShortCode / URL"
+msgstr ""
+
+#. Name of the plugin
+#: celtisdl-logview.php:254 celtisdl-setting.php:679
+msgid "Simple Download with password"
+msgstr ""
+
+#: celtisdl-setting.php:574
+msgid "Simple Download with password\\nClick OK to delete it."
+msgstr ""
+
+#: celtisdl-logview.php:260
+msgid "Simple Download with password\\nClick OK to reset all log items."
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple, easy, lightweight file download with password protection"
+msgstr ""
+
+#: celtisdl-logview.php:76
+msgid "Specified log does not exist."
+msgstr ""
+
+#: celtisdl-logview.php:201
+msgid "Start: "
+msgstr ""
+
+#: celtisdl-setting.php:500 celtisdl-setting.php:614
+msgid "Summary"
+msgstr ""
+
+#: js/celtisdl-admin.js:139
+msgid ""
+"There is data that has not been entered yet. Fields marked with * are "
+"required data."
+msgstr ""
+
+#: celtisdl-logview.php:198
+msgid "This Month"
+msgstr ""
+
+#: celtisdl-logview.php:199
+msgid "This Year"
+msgstr ""
+
+#: celtisdl-setting.php:657
+msgid ""
+"To prevent fraud, a download password is required. However, specific users "
+"can be excluded with password-skip option."
+msgstr ""
+
+#: celtisdl-logview.php:197
+msgid "Today"
+msgstr ""
+
+#: celtisdl-setting.php:717
+msgid "Unfilter Upload file types"
+msgstr ""
+
+#: celtisdl-logview.php:203
+msgid "View"
+msgstr ""

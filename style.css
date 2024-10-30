@@ -1,0 +1,19 @@
+
+.celtisdl-button .celtisdl-button__link {
+    display: inline-block;
+    padding: 0.7em 1.4em;
+    font-size: 1.2em;
+    line-height: 1.7;
+    text-align: center;
+    text-decoration: none;
+    word-break: break-word;
+    overflow-wrap: break-word;
+    color: #fff;
+    background-color: #4285f4;
+    border-radius: 4px;
+    cursor: pointer;       
+}
+
+.celtisdl-button__link small {
+    display: block;
+}

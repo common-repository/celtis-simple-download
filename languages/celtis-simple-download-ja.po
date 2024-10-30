@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Download with password\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-29 02:09+0000\n"
+"PO-Revision-Date: 2024-03-16 05:22+0000\n"
+"Last-Translator: enomoto@celtislab\n"
+"Language-Team: 日本語\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: celtis-simple-download"
+
+#: celtisdl-setting.php:666
+msgid "( Set `read` for all logged in users )"
+msgstr "（ read を指定するとすべてのログインユーザーとなります）"
+
+#: celtisdl-logview.php:244
+msgid "< Prev"
+msgstr "< 前"
+
+#: celtisdl-setting.php:538
+msgid "[Uploaded to another post]"
+msgstr "［他のポストへアップロードされたファイル］"
+
+#: celtisdl-setting.php:655
+msgid "Active"
+msgstr "有効"
+
+#: celtisdl-setting.php:584
+msgid "Add New"
+msgstr "新規作成"
+
+#: celtisdl-setting.php:29
+msgid "All Downloads"
+msgstr "すべてのダウンロード"
+
+#: js/celtisdl-admin.js:33
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: celtisdl-setting.php:666
+msgid "capabilities"
+msgstr "ユーザー権限"
+
+#: celtisdl-setting.php:646
+msgid "Click `Select File` button to upload/select the file to register"
+msgstr "「ファイル選択」ボタンをクリックして、登録するファイルをアップロード/選択します"
+
+#: celtisdl-setting.php:654
+msgid "Deactive"
+msgstr "無効"
+
+#: celtisdl-setting.php:574
+msgid "Delete"
+msgstr "削除"
+
+#: celtisdl-download.php:19 celtisdl-utils.php:85
+msgid "Download"
+msgstr "ダウンロード"
+
+#: celtisdl-setting.php:651
+msgid "Download Activate"
+msgstr "ダウンロード有効"
+
+#: celtisdl-setting.php:588
+msgid "Download File"
+msgstr "ダウンロードファイル"
+
+#: celtisdl-setting.php:694
+msgid "Download links endpoint"
+msgstr "ダウンロードリンクのエンドポイント"
+
+#: celtisdl-logview.php:257
+msgid "Download log"
+msgstr "ダウンロードログ"
+
+#: celtisdl-setting.php:28
+msgid "Downloads"
+msgstr "ダウンロード"
+
+#: celtisdl-setting.php:573
+msgid "Edit"
+msgstr "編集"
+
+#: celtisdl-logview.php:202
+msgid "End: "
+msgstr "終了："
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr "enomoto@celtislab"
+
+#: celtisdl-logview.php:259
+msgid "Export Log (sqlite)"
+msgstr "エクスポート (sqlite)"
+
+#: celtisdl-setting.php:689
+msgid "Extended option"
+msgstr "拡張オプション"
+
+#. Author URI of the plugin
+msgid "https://celtislab.net/"
+msgstr "https://celtislab.net/"
+
+#. URI of the plugin
+msgid "https://celtislab.net/en/wp-plugin-celtis-simple-download/"
+msgstr "https://celtislab.net/wp-plugin-celtis-simple-download/"
+
+#: celtisdl-logview.php:223 celtisdl-setting.php:35
+msgid "Log"
+msgstr "ログ"
+
+#: celtisdl-logview.php:195
+msgid "Log Filter"
+msgstr "ログフィルタ"
+
+#: celtisdl-setting.php:499
+msgid "Name"
+msgstr "名前"
+
+#: celtisdl-setting.php:607
+msgid "Name (*)"
+msgstr "名前 (*)"
+
+#: celtisdl-setting.php:610
+msgid ""
+"Name will be used as a unique slug in the download URL. (valid characters "
+"are half-width alphanumeric characters, hyphens, and underscores)"
+msgstr "名前は、ダウンロード URL のユニークなスラッグとして使用されます。 (有効文字は半角英数字、ハイフン、アンダースコアです)"
+
+#: celtisdl-logview.php:246
+msgid "Next >"
+msgstr "次 >"
+
+#: celtisdl-setting.php:666
+msgid "No password is required for logged in user with "
+msgstr " 指定権限のログインユーザーはパスワードが必要ありません "
+
+#: celtisdl-setting.php:697
+msgid "Note: Endpoint slug changes will update all download link URLs"
+msgstr "注: エンドポイントのスラッグを変更すると、すべてのダウンロード リンク URL が更新されます"
+
+#: celtisdl-setting.php:656
+msgid "Password (*) "
+msgstr "パスワード (*) "
+
+#: celtisdl-setting.php:501
+msgid "Password / Skip"
+msgstr "Password / Skip"
+
+#: celtisdl-setting.php:701
+msgid "Password skip by refere"
+msgstr "リファラーによるパスワードスキップ"
+
+#: celtisdl-setting.php:663
+msgid "Password skip by user"
+msgstr "ユーザー権限によるパスワードスキップ"
+
+#: celtisdl-download.php:25
+msgid "Please enter password to download:"
+msgstr "ダウンロードのパスワードを入力してください"
+
+#: celtisdl-logview.php:206
+msgid "Popular download"
+msgstr "人気のダウンロード"
+
+#: celtisdl-setting.php:709
+msgid "Prevent downloads from domain"
+msgstr "ドメインからのダウンロード防止"
+
+#: celtisdl-setting.php:711
+msgid ""
+"Referrer domain verification - Prevent downloads from registered url domains."
+" (register url domain separated by line breaks)"
+msgstr "リファラードメイン照合 - 登録された URL ドメインからのダウンロードを防止します。 (URLドメインを改行で区切って登録)"
+
+#: celtisdl-setting.php:703
+#| msgid ""
+#| "Referrer verification - No password is required to access from a specific "
+#| "page of this site. (register URLs separated by line breaks)"
+msgid ""
+"Referrer verification - No password is required to download from a specific "
+"page of this site. (register URLs separated by line breaks)"
+msgstr "リファラー照合 - このサイト内の登録されたページからのダウンロードは、パスワード認証不要。 （URLを改行で区切って登録）"
+
+#: celtisdl-setting.php:620
+msgid "Register file (*)"
+msgstr "ファイル登録 (*)"
+
+#: celtisdl-setting.php:718
+msgid "Remove upload file types filtering for site administrators"
+msgstr "サイト管理者に対し、アップロードファイルタイプ制限を解除します"
+
+#: celtisdl-logview.php:260
+msgid "Reset Log"
+msgstr "リセット"
+
+#: celtisdl-setting.php:723 js/celtisdl-admin.js:23
+msgid "Save"
+msgstr "保存"
+
+#: js/celtisdl-admin.js:291
+msgid "Select Download File"
+msgstr "ダウンロードファイルの選択"
+
+#: celtisdl-setting.php:647
+msgid "Select File"
+msgstr "ファイル選択"
+
+#: celtisdl-setting.php:502
+#| msgid "ShortCode / Url"
+msgid "ShortCode / URL"
+msgstr "ShortCode / URL"
+
+#. Name of the plugin
+#: celtisdl-logview.php:254 celtisdl-setting.php:679
+msgid "Simple Download with password"
+msgstr "Simple Download with password"
+
+#: celtisdl-setting.php:574
+msgid "Simple Download with password\\nClick OK to delete it."
+msgstr "Simple Download with password\\nOKをクリクすると削除します"
+
+#: celtisdl-logview.php:260
+msgid "Simple Download with password\\nClick OK to reset all log items."
+msgstr "Simple Download with password\\nOK をクリックするとすべてのログがリセットされます"
+
+#. Description of the plugin
+msgid "Simple, easy, lightweight file download with password protection"
+msgstr "シンプル・簡単・軽快なパスワード保護されたファイルダウンロード"
+
+#: celtisdl-logview.php:76
+msgid "Specified log does not exist."
+msgstr "指定されたログはありません"
+
+#: celtisdl-logview.php:201
+msgid "Start: "
+msgstr "開始："
+
+#: celtisdl-setting.php:500 celtisdl-setting.php:614
+msgid "Summary"
+msgstr "概要"
+
+#: js/celtisdl-admin.js:139
+msgid ""
+"There is data that has not been entered yet. Fields marked with * are "
+"required data."
+msgstr ""
+"入力されていないデータがあります（ * が付いているフィールドは必須データです）\n"
+
+#: celtisdl-logview.php:198
+msgid "This Month"
+msgstr "今月"
+
+#: celtisdl-logview.php:199
+msgid "This Year"
+msgstr "今年"
+
+#: celtisdl-setting.php:657
+msgid ""
+"To prevent fraud, a download password is required. However, specific users "
+"can be excluded with password-skip option."
+msgstr "不正防止のため、ダウンロードパスワードが必要です。但し、パスワードスキップオプションを使用すると指定権限のユーザーを除外できます"
+
+#: celtisdl-logview.php:197
+msgid "Today"
+msgstr "今日"
+
+#: celtisdl-setting.php:717
+msgid "Unfilter Upload file types"
+msgstr "アップロードファイルタイプ制限"
+
+#: celtisdl-logview.php:203
+msgid "View"
+msgstr "表示"
